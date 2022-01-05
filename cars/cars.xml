@@ -1,0 +1,122 @@
+<cars>
+	<car>
+		<category>sedan</category>
+		<availability>Y</availability>
+		<brand>Toyota</brand>
+		<model>Camry</model>
+		<modelyear>2013</modelyear>
+		<mileage>10000</mileage>
+		<fueltype>petrol</fueltype>
+		<seats>5</seats>
+		<priceperday>$150</priceperday>
+		<description>Very Good condition</description>
+	</car>
+	<car>
+		<category>sedan</category>
+		<availability>Y</availability>
+		<brand>BWM</brand>
+		<model>320i</model>
+		<modelyear>2013</modelyear>
+		<mileage>13000</mileage>
+		<fueltype>petrol</fueltype>
+		<seats>4</seats>
+		<priceperday>$300</priceperday>
+		<description>Very Good condition</description>
+	</car>
+	<car>
+		<category>SUV</category>
+		<availability>N</availability>
+		<brand>Holden</brand>
+		<model>Captiva</model>
+		<modelyear>2016</modelyear>
+		<mileage>112000</mileage>
+		<fueltype>petrol</fueltype>
+		<seats>5</seats>
+		<priceperday>$150</priceperday>
+		<description>Very Good condition</description>
+	</car>
+	<car>
+		<category>SUV</category>
+		<availability>Y</availability>
+		<brand>Jeep</brand>
+		<model>Cherokee</model>
+		<modelyear>2015</modelyear>
+		<mileage>14000</mileage>
+		<fueltype>petrol</fueltype>
+		<seats>4</seats>
+		<priceperday>$200</priceperday>
+		<description>Very Good condition</description>
+	</car>
+	<car>
+		<category>sedan</category>
+		<availability>N</availability>
+		<brand>Honda</brand>
+		<model>Civic</model>
+		<modelyear>2014</modelyear>
+		<mileage>16000</mileage>
+		<fueltype>petrol</fueltype>
+		<seats>4</seats>
+		<priceperday>$160</priceperday>
+		<description>Very Good condition</description>
+	</car>
+	<car>
+		<category>SUV</category>
+		<availability>Y</availability>
+		<brand>Mercedes-Benz</brand>
+		<model>GLC</model>
+		<modelyear>2016</modelyear>
+		<mileage>10000</mileage>
+		<fueltype>petrol</fueltype>
+		<seats>4</seats>
+		<priceperday>$210</priceperday>
+		<description>Very Good condition</description>
+	</car>
+	<car>
+		<category>sedan</category>
+		<availability>Y</availability>
+		<brand>Volkswagen</brand>
+		<model>Golf</model>
+		<modelyear>2017</modelyear>
+		<mileage>9000</mileage>
+		<fueltype>petrol</fueltype>
+		<seats>5</seats>
+		<priceperday>$180</priceperday>
+		<description>Very Good condition</description>
+	</car>
+	<car>
+		<category>SUV</category>
+		<availability>N</availability>
+		<brand>Suzuki</brand>
+		<model>Jimny</model>
+		<modelyear>2013</modelyear>
+		<mileage>32000</mileage>
+		<fueltype>petrol</fueltype>
+		<seats>4</seats>
+		<priceperday>$100</priceperday>
+		<description>Very Good condition</description>
+	</car>
+	<car>
+		<category>sedan</category>
+		<availability>Y</availability>
+		<brand>Hyundai</brand>
+		<model>Sonata</model>
+		<modelyear>2015</modelyear>
+		<mileage>12000</mileage>
+		<fueltype>petrol</fueltype>
+		<seats>4</seats>
+		<priceperday>$170</priceperday>
+		<description>Very Good condition</description>
+	</car>
+	<car>
+		<category>SUV</category>
+		<availability>Y</availability>
+		<brand>Toyota</brand>
+		<model>X-trail</model>
+		<modelyear>2012</modelyear>
+		<mileage>40230</mileage>
+		<fueltype>petrol</fueltype>
+		<seats>5</seats>
+		<priceperday>$150</priceperday>
+		<description>Not Good condition</description>
+	</car>
+</cars>
